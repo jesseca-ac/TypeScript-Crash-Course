@@ -1,4 +1,3 @@
 let id: number = 5
 
-id = 'five'
-
+console.log('ID:', id)
